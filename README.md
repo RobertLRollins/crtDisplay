@@ -1,2 +1,2 @@
 # crtDisplay
-Reworking file from codepen.io
+Reworked and simplified file from codepen.io
